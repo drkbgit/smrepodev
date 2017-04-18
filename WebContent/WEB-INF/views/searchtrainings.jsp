@@ -8,7 +8,7 @@
   </head>
   <body> 
      <jsp:include page="_header.jsp"></jsp:include>     
-     <h3>Training Management</h3>
+     <h3>Training Management Section</h3>
      <h2>Search:</h2>  
 
        <label>${trainingInfo.trainingId} </label>
