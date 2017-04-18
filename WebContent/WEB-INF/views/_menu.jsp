@@ -9,7 +9,9 @@
       |
    <a href="${pageContext.request.contextPath}/managetrainings">My Trainings</a>
    	|
-   <a href="${pageContext.request.contextPath}/myJobs">My Jobs</a>  
+   <a href="${pageContext.request.contextPath}/myJobs">My Jobs</a>
+   
+   <a href="${pageContext.request.contextPath}/mySkills">My Skills</a>    
    
     
 </div>  
